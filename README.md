@@ -1,6 +1,6 @@
 # Udacity Computer Vision Nanodegree
 
-![Nanodegree banner](https://raw.githubusercontent.com/darkmatter18/Udacity-Computer-Vision-Nanodegree/master/images/nd_banner.jpg)
+![Nanodegree banner](https://raw.githubusercontent.com/darkmatter18/Udacity-Computer-Vision-Nanodegree/master/images/nd_banner2.jpg)
 
 This Repository contains all files and works, which I did During the **Computer Vision Nanodegree Program** under **Udacity**.
 
