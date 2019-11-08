@@ -12,15 +12,17 @@ In this project, you’ll combine your knowledge of computer vision techniques a
 
 The project will be broken up into a few main parts in four Python notebooks, **only Notebooks 2 and 3 (and the `models.py` file) will be graded**:
 
-__Notebook 1__ : Loading and Visualizing the Facial Keypoint Data
+[__Notebook 1__](./1. Load and Visualize Data.ipynb) : Loading and Visualizing the Facial Keypoint Data
 
-__Notebook 2__ : Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints
+[__Notebook 2__](./2. Define the Network Architecture.html) : Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints
 
-__Notebook 3__ : Facial Keypoint Detection Using Haar Cascades and your Trained CNN
+[__Notebook 3__](./3. Facial Keypoint Detection, Complete Pipeline.html) : Facial Keypoint Detection Using Haar Cascades and your Trained CNN
 
-__Notebook 4__ : Fun Filters and Keypoint Uses
+[__Notebook 4__](./4. Fun with Keypoints.html) : Fun Filters and Keypoint Uses
 
+## Loss graph
 
+![Loss Graph](https://raw.githubusercontent.com/darkmatter18/Udacity-Computer-Vision-Nanodegree/master/images/loss-graph-1.png)
 
 ## Project Instructions
 
