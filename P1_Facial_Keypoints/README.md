@@ -12,13 +12,13 @@ In this project, you’ll combine your knowledge of computer vision techniques a
 
 The project will be broken up into a few main parts in four Python notebooks, **only Notebooks 2 and 3 (and the `models.py` file) will be graded**:
 
-[__Notebook 1__](./1. Load and Visualize Data.ipynb) : Loading and Visualizing the Facial Keypoint Data
+__Notebook 1__ : Loading and Visualizing the Facial Keypoint Data
 
-[__Notebook 2__](./2. Define the Network Architecture.html) : Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints
+[__Notebook 2__](./2.%20Define%20the%20Network%20Architecture.html) : Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints
 
-[__Notebook 3__](./3. Facial Keypoint Detection, Complete Pipeline.html) : Facial Keypoint Detection Using Haar Cascades and your Trained CNN
+[__Notebook 3__](./3.%20Facial%20Keypoint%20Detection%2C%20Complete%20Pipeline.html) : Facial Keypoint Detection Using Haar Cascades and your Trained CNN
 
-[__Notebook 4__](./4. Fun with Keypoints.html) : Fun Filters and Keypoint Uses
+[__Notebook 4__](./4.%20Fun%20with%20Keypoints.html) : Fun Filters and Keypoint Uses
 
 ## Loss graph
 
