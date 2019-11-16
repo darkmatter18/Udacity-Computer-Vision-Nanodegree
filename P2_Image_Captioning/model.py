@@ -2,6 +2,7 @@ import torch
 import torch.nn as nn
 import torchvision.models as models
 
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 class EncoderCNN(nn.Module):
     def __init__(self, embed_size):
@@ -23,10 +24,49 @@ class EncoderCNN(nn.Module):
 
 class DecoderRNN(nn.Module):
     def __init__(self, embed_size, hidden_size, vocab_size, num_layers=1):
-        pass
-    
+        
+        # Set the hidden size for init_hidden
+        self.hidden_size = hidden_size
+        
+        # Set the device
+        self.device = device
+        
+        # Embedded layer
+        self.embed = nn.Embedding(vocab_size, embed_size)
+        
+        # LSTM layer
+        self.lstm = nn.LSTM(input_size=embed_size,
+                            hidden_size=hidden_size,
+                            num_layers=num_layers,
+                            batch_first= True,
+                            dropout = 0)
+        
+        # Fully Connected layer
+        self.fc = nn.Linear(hidden_size, vocab_size)
+
+    def init_hidden(self, batch_size):
+        return (torch.zeros(1, batch_size, self.hidden_size, device = device),
+                torch.zeros(1, batch_size, self.hidden_size, device = device))
+
     def forward(self, features, captions):
-        pass
+        
+        # Initialize the hidden state
+        self.hidden = self.init_hidden(features.shape[0])# features is of shape (batch_size, embed_size)
+        
+        # Embedding the captions
+        embedded = self.embed(captions[:,:-1])
+        # print(embedded.shape)
+        # print(features.unsqueeze(1).shape)
+        
+        embedded = torch.cat((features.unsqueeze(1), embedded), dim=1)
+        # print(embedded.shape)
+        
+        # LSTM
+        lstm_out, self.hidden = self.lstm(embedded, self.hidden)
+        
+        # Functional component
+        out = self.fc(lstm_out)
+        return out
 
     def sample(self, inputs, states=None, max_len=20):
         " accepts pre-processed image tensor (inputs) and returns predicted sentence (list of tensor ids of length max_len) "
