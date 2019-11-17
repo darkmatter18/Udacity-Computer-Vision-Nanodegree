@@ -24,6 +24,7 @@ class EncoderCNN(nn.Module):
 
 class DecoderRNN(nn.Module):
     def __init__(self, embed_size, hidden_size, vocab_size, num_layers=1):
+        super(DecoderRNN, self).__init__()
         
         # Set the hidden size for init_hidden
         self.hidden_size = hidden_size
@@ -43,15 +44,16 @@ class DecoderRNN(nn.Module):
         
         # Fully Connected layer
         self.fc = nn.Linear(hidden_size, vocab_size)
-
+        
     def init_hidden(self, batch_size):
         return (torch.zeros(1, batch_size, self.hidden_size, device = device),
                 torch.zeros(1, batch_size, self.hidden_size, device = device))
-
+    
     def forward(self, features, captions):
         
         # Initialize the hidden state
         self.hidden = self.init_hidden(features.shape[0])# features is of shape (batch_size, embed_size)
+        
         
         # Embedding the captions
         embedded = self.embed(captions[:,:-1])
