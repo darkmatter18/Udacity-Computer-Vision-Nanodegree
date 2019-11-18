@@ -72,4 +72,26 @@ class DecoderRNN(nn.Module):
 
     def sample(self, inputs, states=None, max_len=20):
         " accepts pre-processed image tensor (inputs) and returns predicted sentence (list of tensor ids of length max_len) "
-        pass
+        
+        # Initialize the hidden state
+        hidden = self.init_hidden(inputs.shape[0])# features is of shape (batch_size, embed_size)
+        
+        out_list = list()
+        word_len = 0
+        
+        with torch.no_grad():
+            while word_len < max_len:
+                lstm_out, hidden = self.lstm(inputs, hidden)
+                out = self.fc(lstm_out)
+                out = out.squeeze(1)
+                out = out.argmax(dim=1)
+                # print(out)
+                out_list.append(out.item())
+                
+                inputs = self.embed(out.unsqueeze(0))
+                
+                word_len += 1
+                if out == 1:
+                    break
+        
+        return out_list
