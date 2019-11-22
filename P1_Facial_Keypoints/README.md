@@ -10,7 +10,7 @@ In this project, you’ll combine your knowledge of computer vision techniques a
 
 ![Facial Keypoint Detection][image1]
 
-The project will be broken up into a few main parts in four Python notebooks, **only Notebooks 2 and 3 (and the `models.py` file) will be graded**:
+## Contents
 
 __Notebook 1__ : Loading and Visualizing the Facial Keypoint Data
 
