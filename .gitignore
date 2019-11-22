@@ -1,3 +1,5 @@
 __pycache__
 .ipynb_checkpoints
 yolov3.weights
+cocoapi
+saved_models
