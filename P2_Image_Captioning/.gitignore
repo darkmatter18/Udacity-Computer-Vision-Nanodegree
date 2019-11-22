@@ -1,6 +1,9 @@
 models/
 data/
+cocoapi/
 .ipynb_checkpoints/
 __pycache__/
 annotations/
 .DS_Store
+training_log.txt
+data.csv
