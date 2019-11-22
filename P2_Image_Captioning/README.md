@@ -1,6 +1,26 @@
-# CVND---Image-Captioning-Project
+![Model Architecture](./images/encoder-decoder.png)
 
-# Instructions  
+# Image-Captioning-Project
+
+## Project Overview
+
+[To-Do]
+
+## Contents
+
+__Notebook 0__ : Loading and Visualizing the Coco Dataset
+
+__Notebook 1__ : Setting up the Project and verify the Dataset and the `Model`
+
+[__Notebook 2__](./2_Training.html) : Training the CNN-RNN Model to predict the Caption
+
+[__Notebook 3__](3_Inference.html) : Validating the model and Do some fun with it
+
+## Loss graph
+
+![Loss Graph](https://raw.githubusercontent.com/darkmatter18/Udacity-Computer-Vision-Nanodegree/master/images/loss-graph-2.png)
+
+# Project Instructions  
 1. Clone this repo: https://github.com/cocodataset/cocoapi  
 ```
 git clone https://github.com/cocodataset/cocoapi.git  
