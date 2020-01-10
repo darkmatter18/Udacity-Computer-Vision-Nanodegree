@@ -1,4 +1,4 @@
-# import pdb
+#import pdb
 from helpers import normalize, blur
 
 def initialize_beliefs(grid):
@@ -16,7 +16,15 @@ def initialize_beliefs(grid):
 
 def sense(color, grid, beliefs, p_hit, p_miss):
     new_beliefs = []
-
+    for i in range(len(beliefs)):
+        x  =  []
+        for j in range(len(beliefs[0])):
+            if grid[i][j] == color:
+                x.append(beliefs[i][j] * p_hit)
+            else:
+                x.append(beliefs[i][j] * p_miss)
+        new_beliefs.append(x)
+    new_beliefs = normalize(new_beliefs)
     #
     # TODO - implement this in part 2
     #
@@ -31,6 +39,6 @@ def move(dy, dx, beliefs, blurring):
         for j, cell in enumerate(row):
             new_i = (i + dy ) % width
             new_j = (j + dx ) % height
-            # pdb.set_trace()
-            new_G[int(new_i)][int(new_j)] = cell
+            #pdb.set_trace()
+            new_G[int(new_j)][int(new_i)] = cell
     return blur(new_G, blurring)
