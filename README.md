@@ -22,7 +22,8 @@
 
 1. [CVND-Exercises](./CVND_Exercises/) - All Execises done Under the Nanodegree
 2. [P1-Facial-Keypoint](./P1_Facial_Keypoints/) - Files and Notebooks of Project 1
-2. [P2-Image-Captioning](./P2_Image_Captioning/) - Files and Notebooks of Project 2
+3. [P2-Image-Captioning](./P2_Image_Captioning/) - Files and Notebooks of Project 2
+4. [Mini-Project-2D-Histogram-Filter](./Mini_Project_Two%20Dimensional%20Histogram%20Filter) - Mini Project 2D Histogram Filter
 
 ![SPAIC banner](https://raw.githubusercontent.com/darkmatter18/Udacity-Computer-Vision-Nanodegree/master/images/spaic_p2_banner.png)
 
