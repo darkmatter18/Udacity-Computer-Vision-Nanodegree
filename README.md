@@ -1,6 +1,8 @@
 # Udacity Computer Vision Nanodegree
 
 [![Udacity Computer Vision Nanodegree](https://tugan0329.bitbucket.io/imgs/github/cvnd.svg)](https://www.udacity.com/course/computer-vision-nanodegree--nd891)
+![Forks](https://img.shields.io/github/forks/darkmatter18/Udacity-Computer-Vision-Nanodegree)
+![Stars](https://img.shields.io/github/stars/darkmatter18/Udacity-Computer-Vision-Nanodegree)
 
 `UdacityFacebookScholar`
 
