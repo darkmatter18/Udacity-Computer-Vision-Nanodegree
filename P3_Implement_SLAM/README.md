@@ -12,11 +12,11 @@ In this project, you'll implement SLAM (Simultaneous Localization and Mapping) f
 
 The project will be broken up into three Python notebooks; the first two are for exploration of provided code, and a review of SLAM architectures, **only Notebook 3 and the `robot_class.py` file will be graded**:
 
-__Notebook 1__ : Robot Moving and Sensing
+[__Notebook 1__](./1.%20Robot%20Moving%20and%20Sensing.html) : Robot Moving and Sensing
 
 __Notebook 2__ : Omega and Xi, Constraints 
 
-__Notebook 3__ : Landmark Detection and Tracking 
+[__Notebook 3__](./3.%20Landmark%20Detection%20and%20Tracking.html) : Landmark Detection and Tracking 
 
 
 ## Project Instructions
