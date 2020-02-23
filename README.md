@@ -28,6 +28,17 @@
 
 ![SPAIC banner](https://raw.githubusercontent.com/darkmatter18/Udacity-Computer-Vision-Nanodegree/master/images/spaic_p2_banner.png)
 
+## Maintainer
+
+[![Relative date](https://img.shields.io/date/1577392258?color=important&label=started&logo=github)](https://github.com/darkmatter18/) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/darkmatter18/)
+
+[![](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/images/0)](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/links/0)[![](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/images/1)](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/links/1)[![](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/images/2)](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/links/2)[![](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/images/3)](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/links/3)[![](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/images/4)](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/links/4)[![](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/images/5)](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/links/5)[![](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/images/6)](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/links/6)[![](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/images/7)](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/links/7)
+
+**[Vinit Shahdeo](https://www.linkedin.com/in/arkadip/)**
+
+<a href="https://twitter.com/Arkadipb21"><img src="assets/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/arkadipb"><img src="assets/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/arkadip/"><img src="assets/linkedin.png" width="32px" height="32px"></a>
+
+
 
 ## Honor Code
 
