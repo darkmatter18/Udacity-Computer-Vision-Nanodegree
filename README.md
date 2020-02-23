@@ -34,11 +34,14 @@
 
 [![](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/images/0)](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/links/0)[![](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/images/1)](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/links/1)[![](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/images/2)](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/links/2)[![](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/images/3)](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/links/3)[![](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/images/4)](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/links/4)[![](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/images/5)](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/links/5)[![](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/images/6)](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/links/6)[![](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/images/7)](https://sourcerer.io/fame/darkmatter18/darkmatter18/Udacity-Computer-Vision-Nanodegree/links/7)
 
-**[Vinit Shahdeo](https://www.linkedin.com/in/arkadip/)**
+**[Arkadip Bhattacharya](https://www.linkedin.com/in/arkadip/)**
 
-<a href="https://twitter.com/Arkadipb21"><img src="assets/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/arkadipb"><img src="assets/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/arkadip/"><img src="assets/linkedin.png" width="32px" height="32px"></a>
+<a href="https://twitter.com/Arkadipb21"><img src="images/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/arkadipb"><img src="images/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/arkadip/"><img src="images/linkedin.png" width="32px" height="32px"></a>
 
+> ***Need help?***
+***Feel free to contact me @ [in2arkadipb13@gmail.com](mailto:in2arkadipb13@gmail.com?Subject=Github:Udacity-Computer-Vision-Nanodegree-Repository)***
 
+[![GitHub followers](https://img.shields.io/github/followers/darkmatter18?color=1e88e5&label=Follow%20%40darkmatter18&logo=github&style=flat-square)](https://github.com/darkmatter18/) [![Twitter Follow](https://img.shields.io/twitter/follow/Arkadipb21?color=1e88e5&logo=twitter&style=flat-square)](https://twitter.com/Arkadipb21) 
 
 ## Honor Code
 
