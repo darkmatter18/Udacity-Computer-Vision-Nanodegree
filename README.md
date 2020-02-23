@@ -1,9 +1,9 @@
 # Udacity Computer Vision Nanodegree
 
 [![Udacity Computer Vision Nanodegree](https://tugan0329.bitbucket.io/imgs/github/cvnd.svg?style=flat-square)](https://www.udacity.com/course/computer-vision-nanodegree--nd891)
-![Forks](https://img.shields.io/github/forks/darkmatter18/Udacity-Computer-Vision-Nanodegree?style=flat-square)
-![Stars](https://img.shields.io/github/stars/darkmatter18/Udacity-Computer-Vision-Nanodegree?style=flat-square)
-![Lincence](https://img.shields.io/github/license/darkmatter18/Udacity-Computer-Vision-Nanodegree?style=flat-square)
+[![Github Forks](https://img.shields.io/github/forks/darkmatter18/Udacity-Computer-Vision-Nanodegree?style=flat-square)](https://github.com/darkmatter18/Udacity-Computer-Vision-Nanodegree/network)
+[![Stars](https://img.shields.io/github/stars/darkmatter18/Udacity-Computer-Vision-Nanodegree?style=flat-square)](https://github.com/darkmatter18/Udacity-Computer-Vision-Nanodegree/stargazers)
+[![Lincence](https://img.shields.io/github/license/darkmatter18/Udacity-Computer-Vision-Nanodegree?style=flat-square)](https://github.com/darkmatter18/Udacity-Computer-Vision-Nanodegree/LICENSE)
 
 `UdacityFacebookScholar`
 
