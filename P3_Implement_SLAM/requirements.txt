@@ -1,5 +1,5 @@
 jupyter==1.0.0
-matplotlib==2.1.1
+matplotlib==2.2.5
 pandas==0.22.0
 numpy==1.22.0
 pillow==9.3.0
