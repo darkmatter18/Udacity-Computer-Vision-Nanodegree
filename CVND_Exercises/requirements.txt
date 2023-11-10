@@ -1,7 +1,7 @@
 opencv-python==4.8.1.78
 jupyter==1.0.0
 matplotlib==3.8.1
-pandas==2.1.2
+pandas==2.1.3
 numpy==1.26.1
 pillow>=6.2.0
 scipy==1.11.3
