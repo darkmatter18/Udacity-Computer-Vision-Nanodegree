@@ -1,5 +1,5 @@
 opencv-python==4.11.0.86
-matplotlib==3.10.1
+matplotlib==3.10.7
 pandas==2.2.3
 numpy==2.2.4
 pillow>=6.2.0
